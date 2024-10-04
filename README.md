@@ -31,6 +31,14 @@ The **Startup Success Forecasting Framework (SSFF)** is focused on developing a 
 ### RD-Agent
 The **RD-Agent** project is dedicated to creating a multi-agent system that enhances the research and development process by automating key tasks. This initiative facilitates efficient collaboration among researchers, driving innovation forward.
 
+## 📊 GitHub Stats
+![Xisen Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xisen-w&show_icons=true&hide_border=true)
+
+![Total Commits](https://img.shields.io/badge/commits-335-blue)
+
+[![Xisen Wang's Activity](https://activity-graph.herokuapp.com/graph?username=xisen-w&theme=react-dark)](https://github.com/xisen-w)
+
+
 ## 🌟 Let’s Connect!
 I am excited about the future of AI and its potential to revolutionize industries. If you're interested in collaborating, discussing ideas, or sharing insights, feel free to connect with me!
 
