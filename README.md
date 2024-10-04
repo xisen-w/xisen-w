@@ -36,7 +36,7 @@ The **RD-Agent** project is dedicated to creating a multi-agent system that enha
 
 ![Total Commits](https://img.shields.io/badge/commits-335-blue)
 
-[![Xisen Wang's Activity](https://activity-graph.herokuapp.com/graph?username=xisen-w&theme=react-dark)](https://github.com/xisen-w)
+![Xisen Wang's GitHub Activity](https://github-readme-activity.herokuapp.com/graph?username=xisen-w&theme=react-dark)
 
 
 ## 🌟 Let’s Connect!
