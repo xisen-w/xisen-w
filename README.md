@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Xisen Wang! 👋
+# Hello, I'm Xisen! 👋
 
 I am a passionate engineer studying at the University of Oxford, where I am delving into the fascinating world of artificial intelligence and quantitative trading. With a strong commitment to innovation, I thrive on tackling complex challenges and developing impactful solutions that shape the future.
 
@@ -46,3 +46,57 @@ I am excited about the future of AI and its potential to revolutionize industrie
 - 💬 **Ask me about:** AI, quantitative trading, engineering projects, or anything else that sparks curiosity!
 
 Together, let's explore the possibilities that technology can bring to our world!
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xisen-w&label=Profile%20views&color=0e75b6&style=flat" alt="xisen-w" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xisen-w&row=2&column=4&margin-w=20&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Experience,Issues" alt="xisen-w" />
+  </a>
+</p>
+
+<h3 align="left">Programming Languages</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+</p>
+<p align="left"> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="60" height="60" style="margin: 15px;"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+</p>
+
+<h3 align="left">Frameworks and Software</h3>
+<p align="left"> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+</p>
+<p align="left">  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="60" height="60" style="margin: 15px;"/> 
+  </a> 
+</p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xisen-w&layout=compact&locale=en" alt="xisen-w" /></p>
