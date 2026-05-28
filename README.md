@@ -19,11 +19,11 @@ I am a passionate engineer studying at the University of Oxford, where I am delv
 
 ## 🚀 My Projects
 
-### OmniAns
-OmniAns is an **AI-powered research assistant** that provides deep insights and support in academic research. It excels in reading comprehension and writing, making it an invaluable tool for researchers striving for excellence.
+### Aicoo 
+Here, from permission issues to zero-trust frameworks, Aicoo explores the boundary on cross-boundary agentic delegation. 
 
-### A4ML
-A4ML introduces a **text-to-model (T2M) paradigm**, transforming plain text into machine learning models. This project aims to simplify model creation, making it accessible to users regardless of their technical background.
+### HL-ImageNet
+Here, we experiment with Heuristic Learning on ImageNet.
 
 ### SSFF
 The **Startup Success Forecasting Framework (SSFF)** is focused on developing a robust framework for predicting startup success based on various data-driven parameters. It provides valuable insights to entrepreneurs and investors, guiding them toward better decision-making.
