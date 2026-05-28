@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Xisen! 👋
 
-I am a passionate engineer studying at the University of Oxford, where I am delving into the fascinating world of artificial intelligence and quantitative trading. With a strong commitment to innovation, I thrive on tackling complex challenges and developing impactful solutions that shape the future.
+A systems thinker & builder. 
 
 ## 🚀 My Projects
 
