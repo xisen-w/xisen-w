@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Xisen! 👋
+# Hello, I'm Eason! 👋
 
 A systems thinker & builder. 
 
