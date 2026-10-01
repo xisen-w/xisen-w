@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Eason! 👋
+# Hello, I'm Xisen! 👋
 
-A systems thinker & builder. 
+A systems thinker & builder. I believe that organisational intelligence is the next scaling frontier. 
 
 ## 🚀 My Projects
 
